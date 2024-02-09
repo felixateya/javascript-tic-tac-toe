@@ -22,8 +22,8 @@ Tic Tac Toe is a two-player game played on a 3x3 grid. Players take turns markin
 7. **Game End:** After the game concludes, players can choose to play again or exit the game.
 
 ## Installation
-- **Web Version:** No installation required. Simply open t[tic-tac-toe](felixateya.github.io/javascript-tic-tac-toe) in a web browser.
-- **Mobile App:** click on [tic-tac-toe](felixateya.github.io/javascript-tic-tac-toe) in any browser and start playing. Easy Peasy!
+- **Web Version:** No installation required. Simply open [tic-tac-toe](https://felixateya.github.io/javascript-tic-tac-toe) in a web browser.
+- **Mobile App:** click on [tic-tac-toe](https://felixateya.github.io/javascript-tic-tac-toe) in any browser and start playing. Easy Peasy!
 
 ## Development
 - **Languages:** The game is developed using HTML, CSS, and JavaScript.
